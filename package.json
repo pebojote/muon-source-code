@@ -1,7 +1,7 @@
 {
   "name": "@workpebojot/muon-source-code",
   "version": "0.2.0",
-  "description": "",
+  "description": "The muon is a software project management tool. It helps you graph time and velocity using cumulative flow diagram",
   "main": "index.js",
   "scripts": {
     "login": "npm login --scope=@OWNER --registry=https://npm.pkg.github.com"

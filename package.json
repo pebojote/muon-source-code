@@ -1,0 +1,23 @@
+{
+  "name": "@workpebojot/muon-source-code",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login": "npm login --scope=@OWNER --registry=https://npm.pkg.github.com",
+    "publish": "npm publish"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "git://github.com/workpebojot/muon-source-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workpebojot/muon-source-code/issues"
+  },
+  "homepage": "https://github.com/workpebojot/muon-source-code#readme"
+}
